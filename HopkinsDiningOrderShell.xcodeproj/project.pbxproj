@@ -21,6 +21,28 @@
 		39F69F1C195FA97C003622A0 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 39F69EFE195FA97C003622A0 /* UIKit.framework */; };
 		39F69F24195FA97C003622A0 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 39F69F22195FA97C003622A0 /* InfoPlist.strings */; };
 		39F69F26195FA97C003622A0 /* HopkinsDiningOrderShellTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 39F69F25195FA97C003622A0 /* HopkinsDiningOrderShellTests.m */; };
+		C32F6879195FCD5C0004DF48 /* NolansStationsMenu.m in Sources */ = {isa = PBXBuildFile; fileRef = C32F6878195FCD5C0004DF48 /* NolansStationsMenu.m */; };
+		C32F687F195FCED60004DF48 /* NolansGrillMainMenu.m in Sources */ = {isa = PBXBuildFile; fileRef = C32F687E195FCED60004DF48 /* NolansGrillMainMenu.m */; };
+		C32F6882195FCFC70004DF48 /* NolansGrillToppingsMenu.m in Sources */ = {isa = PBXBuildFile; fileRef = C32F6881195FCFC70004DF48 /* NolansGrillToppingsMenu.m */; };
+		C32F6885195FCFFF0004DF48 /* NolansGrillSideMenu.m in Sources */ = {isa = PBXBuildFile; fileRef = C32F6884195FCFFF0004DF48 /* NolansGrillSideMenu.m */; };
+		C32F6888195FD0FB0004DF48 /* OrderReview.m in Sources */ = {isa = PBXBuildFile; fileRef = C32F6887195FD0FB0004DF48 /* OrderReview.m */; };
+		C32F688B195FD1160004DF48 /* WaitingTime.m in Sources */ = {isa = PBXBuildFile; fileRef = C32F688A195FD1160004DF48 /* WaitingTime.m */; };
+		C32F689C195FE0140004DF48 /* 00.LOGO_Nolans.png in Resources */ = {isa = PBXBuildFile; fileRef = C32F688D195FE0140004DF48 /* 00.LOGO_Nolans.png */; };
+		C32F689D195FE0140004DF48 /* CSM-logo.png in Resources */ = {isa = PBXBuildFile; fileRef = C32F688E195FE0140004DF48 /* CSM-logo.png */; };
+		C32F689E195FE0140004DF48 /* Dolsi.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C32F688F195FE0140004DF48 /* Dolsi.jpg */; };
+		C32F689F195FE0140004DF48 /* fire.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C32F6890195FE0140004DF48 /* fire.jpg */; };
+		C32F68A0195FE0140004DF48 /* fire.psd in Resources */ = {isa = PBXBuildFile; fileRef = C32F6891195FE0140004DF48 /* fire.psd */; };
+		C32F68A1195FE0140004DF48 /* firesmoke.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C32F6892195FE0140004DF48 /* firesmoke.jpg */; };
+		C32F68A2195FE0140004DF48 /* jhuhd.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C32F6893195FE0140004DF48 /* jhuhd.jpg */; };
+		C32F68A3195FE0140004DF48 /* Levering-logo.png in Resources */ = {isa = PBXBuildFile; fileRef = C32F6894195FE0140004DF48 /* Levering-logo.png */; };
+		C32F68A4195FE0140004DF48 /* nooodels.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C32F6895195FE0140004DF48 /* nooodels.jpg */; };
+		C32F68A5195FE0140004DF48 /* Rmao.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C32F6896195FE0140004DF48 /* Rmao.jpg */; };
+		C32F68A6195FE0140004DF48 /* Salud.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C32F6897195FE0140004DF48 /* Salud.jpg */; };
+		C32F68A7195FE0140004DF48 /* SMB-logo.png in Resources */ = {isa = PBXBuildFile; fileRef = C32F6898195FE0140004DF48 /* SMB-logo.png */; };
+		C32F68A8195FE0140004DF48 /* taco.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C32F6899195FE0140004DF48 /* taco.jpg */; };
+		C32F68A9195FE0140004DF48 /* taqueria.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C32F689A195FE0140004DF48 /* taqueria.jpg */; };
+		C32F68AA195FE0140004DF48 /* taqueria.psd in Resources */ = {isa = PBXBuildFile; fileRef = C32F689B195FE0140004DF48 /* taqueria.psd */; };
+		C39BDD4F195FC54A00103A37 /* MainMenu.m in Sources */ = {isa = PBXBuildFile; fileRef = C39BDD4E195FC54A00103A37 /* MainMenu.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +75,35 @@
 		39F69F21195FA97C003622A0 /* HopkinsDiningOrderShellTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "HopkinsDiningOrderShellTests-Info.plist"; sourceTree = "<group>"; };
 		39F69F23195FA97C003622A0 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		39F69F25195FA97C003622A0 /* HopkinsDiningOrderShellTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HopkinsDiningOrderShellTests.m; sourceTree = "<group>"; };
+		C32F6877195FCD5C0004DF48 /* NolansStationsMenu.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NolansStationsMenu.h; sourceTree = "<group>"; };
+		C32F6878195FCD5C0004DF48 /* NolansStationsMenu.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NolansStationsMenu.m; sourceTree = "<group>"; };
+		C32F687D195FCED60004DF48 /* NolansGrillMainMenu.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NolansGrillMainMenu.h; sourceTree = "<group>"; };
+		C32F687E195FCED60004DF48 /* NolansGrillMainMenu.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NolansGrillMainMenu.m; sourceTree = "<group>"; };
+		C32F6880195FCFC70004DF48 /* NolansGrillToppingsMenu.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NolansGrillToppingsMenu.h; sourceTree = "<group>"; };
+		C32F6881195FCFC70004DF48 /* NolansGrillToppingsMenu.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NolansGrillToppingsMenu.m; sourceTree = "<group>"; };
+		C32F6883195FCFFF0004DF48 /* NolansGrillSideMenu.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NolansGrillSideMenu.h; sourceTree = "<group>"; };
+		C32F6884195FCFFF0004DF48 /* NolansGrillSideMenu.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NolansGrillSideMenu.m; sourceTree = "<group>"; };
+		C32F6886195FD0FB0004DF48 /* OrderReview.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OrderReview.h; sourceTree = "<group>"; };
+		C32F6887195FD0FB0004DF48 /* OrderReview.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OrderReview.m; sourceTree = "<group>"; };
+		C32F6889195FD1160004DF48 /* WaitingTime.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WaitingTime.h; sourceTree = "<group>"; };
+		C32F688A195FD1160004DF48 /* WaitingTime.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WaitingTime.m; sourceTree = "<group>"; };
+		C32F688D195FE0140004DF48 /* 00.LOGO_Nolans.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 00.LOGO_Nolans.png; sourceTree = "<group>"; };
+		C32F688E195FE0140004DF48 /* CSM-logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "CSM-logo.png"; sourceTree = "<group>"; };
+		C32F688F195FE0140004DF48 /* Dolsi.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Dolsi.jpg; sourceTree = "<group>"; };
+		C32F6890195FE0140004DF48 /* fire.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = fire.jpg; sourceTree = "<group>"; };
+		C32F6891195FE0140004DF48 /* fire.psd */ = {isa = PBXFileReference; lastKnownFileType = file; path = fire.psd; sourceTree = "<group>"; };
+		C32F6892195FE0140004DF48 /* firesmoke.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = firesmoke.jpg; sourceTree = "<group>"; };
+		C32F6893195FE0140004DF48 /* jhuhd.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = jhuhd.jpg; sourceTree = "<group>"; };
+		C32F6894195FE0140004DF48 /* Levering-logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Levering-logo.png"; sourceTree = "<group>"; };
+		C32F6895195FE0140004DF48 /* nooodels.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nooodels.jpg; sourceTree = "<group>"; };
+		C32F6896195FE0140004DF48 /* Rmao.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Rmao.jpg; sourceTree = "<group>"; };
+		C32F6897195FE0140004DF48 /* Salud.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Salud.jpg; sourceTree = "<group>"; };
+		C32F6898195FE0140004DF48 /* SMB-logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SMB-logo.png"; sourceTree = "<group>"; };
+		C32F6899195FE0140004DF48 /* taco.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = taco.jpg; sourceTree = "<group>"; };
+		C32F689A195FE0140004DF48 /* taqueria.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = taqueria.jpg; sourceTree = "<group>"; };
+		C32F689B195FE0140004DF48 /* taqueria.psd */ = {isa = PBXFileReference; lastKnownFileType = file; path = taqueria.psd; sourceTree = "<group>"; };
+		C39BDD4D195FC54A00103A37 /* MainMenu.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainMenu.h; sourceTree = "<group>"; };
+		C39BDD4E195FC54A00103A37 /* MainMenu.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainMenu.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -119,6 +170,20 @@
 				39F69F10195FA97C003622A0 /* ViewController.m */,
 				39F69F12195FA97C003622A0 /* Images.xcassets */,
 				39F69F01195FA97C003622A0 /* Supporting Files */,
+				C39BDD4D195FC54A00103A37 /* MainMenu.h */,
+				C39BDD4E195FC54A00103A37 /* MainMenu.m */,
+				C32F6877195FCD5C0004DF48 /* NolansStationsMenu.h */,
+				C32F6878195FCD5C0004DF48 /* NolansStationsMenu.m */,
+				C32F687D195FCED60004DF48 /* NolansGrillMainMenu.h */,
+				C32F687E195FCED60004DF48 /* NolansGrillMainMenu.m */,
+				C32F6880195FCFC70004DF48 /* NolansGrillToppingsMenu.h */,
+				C32F6881195FCFC70004DF48 /* NolansGrillToppingsMenu.m */,
+				C32F6883195FCFFF0004DF48 /* NolansGrillSideMenu.h */,
+				C32F6884195FCFFF0004DF48 /* NolansGrillSideMenu.m */,
+				C32F6886195FD0FB0004DF48 /* OrderReview.h */,
+				C32F6887195FD0FB0004DF48 /* OrderReview.m */,
+				C32F6889195FD1160004DF48 /* WaitingTime.h */,
+				C32F688A195FD1160004DF48 /* WaitingTime.m */,
 			);
 			path = HopkinsDiningOrderShell;
 			sourceTree = "<group>";
@@ -126,6 +191,7 @@
 		39F69F01195FA97C003622A0 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				C32F688C195FE0140004DF48 /* images */,
 				39F69F02195FA97C003622A0 /* HopkinsDiningOrderShell-Info.plist */,
 				39F69F03195FA97C003622A0 /* InfoPlist.strings */,
 				39F69F06195FA97C003622A0 /* main.m */,
@@ -150,6 +216,29 @@
 				39F69F22195FA97C003622A0 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		C32F688C195FE0140004DF48 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				C32F688D195FE0140004DF48 /* 00.LOGO_Nolans.png */,
+				C32F688E195FE0140004DF48 /* CSM-logo.png */,
+				C32F688F195FE0140004DF48 /* Dolsi.jpg */,
+				C32F6890195FE0140004DF48 /* fire.jpg */,
+				C32F6891195FE0140004DF48 /* fire.psd */,
+				C32F6892195FE0140004DF48 /* firesmoke.jpg */,
+				C32F6893195FE0140004DF48 /* jhuhd.jpg */,
+				C32F6894195FE0140004DF48 /* Levering-logo.png */,
+				C32F6895195FE0140004DF48 /* nooodels.jpg */,
+				C32F6896195FE0140004DF48 /* Rmao.jpg */,
+				C32F6897195FE0140004DF48 /* Salud.jpg */,
+				C32F6898195FE0140004DF48 /* SMB-logo.png */,
+				C32F6899195FE0140004DF48 /* taco.jpg */,
+				C32F689A195FE0140004DF48 /* taqueria.jpg */,
+				C32F689B195FE0140004DF48 /* taqueria.psd */,
+			);
+			name = images;
+			path = Images.xcassets/images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -229,8 +318,23 @@
 			buildActionMask = 2147483647;
 			files = (
 				39F69F13195FA97C003622A0 /* Images.xcassets in Resources */,
+				C32F689F195FE0140004DF48 /* fire.jpg in Resources */,
+				C32F68A5195FE0140004DF48 /* Rmao.jpg in Resources */,
+				C32F68A7195FE0140004DF48 /* SMB-logo.png in Resources */,
+				C32F68A8195FE0140004DF48 /* taco.jpg in Resources */,
+				C32F68A0195FE0140004DF48 /* fire.psd in Resources */,
+				C32F68AA195FE0140004DF48 /* taqueria.psd in Resources */,
+				C32F68A2195FE0140004DF48 /* jhuhd.jpg in Resources */,
+				C32F689E195FE0140004DF48 /* Dolsi.jpg in Resources */,
 				39F69F05195FA97C003622A0 /* InfoPlist.strings in Resources */,
+				C32F68A9195FE0140004DF48 /* taqueria.jpg in Resources */,
+				C32F689D195FE0140004DF48 /* CSM-logo.png in Resources */,
+				C32F689C195FE0140004DF48 /* 00.LOGO_Nolans.png in Resources */,
+				C32F68A6195FE0140004DF48 /* Salud.jpg in Resources */,
 				39F69F0E195FA97C003622A0 /* Main.storyboard in Resources */,
+				C32F68A4195FE0140004DF48 /* nooodels.jpg in Resources */,
+				C32F68A3195FE0140004DF48 /* Levering-logo.png in Resources */,
+				C32F68A1195FE0140004DF48 /* firesmoke.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -249,9 +353,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C32F688B195FD1160004DF48 /* WaitingTime.m in Sources */,
 				39F69F11195FA97C003622A0 /* ViewController.m in Sources */,
 				39F69F0B195FA97C003622A0 /* AppDelegate.m in Sources */,
+				C32F6879195FCD5C0004DF48 /* NolansStationsMenu.m in Sources */,
+				C32F6888195FD0FB0004DF48 /* OrderReview.m in Sources */,
+				C32F687F195FCED60004DF48 /* NolansGrillMainMenu.m in Sources */,
 				39F69F07195FA97C003622A0 /* main.m in Sources */,
+				C32F6882195FCFC70004DF48 /* NolansGrillToppingsMenu.m in Sources */,
+				C39BDD4F195FC54A00103A37 /* MainMenu.m in Sources */,
+				C32F6885195FCFFF0004DF48 /* NolansGrillSideMenu.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -460,6 +571,7 @@
 				39F69F2B195FA97C003622A0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		39F69F2C195FA97C003622A0 /* Build configuration list for PBXNativeTarget "HopkinsDiningOrderShellTests" */ = {
 			isa = XCConfigurationList;
@@ -468,6 +580,7 @@
 				39F69F2E195FA97C003622A0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
